@@ -1,6 +1,5 @@
 <div align="center">
-<img src="https://tc.z.wiki/autoupload/Be5fZ-ROdLts743MADrjhdiO_OyvX7mIgxFBfDMDErs/20250619/Oo9x/149X196/%E6%88%91%E7%9A%84.gif
-" align="center" height="" width="200" />
+<img src="https://github.com/beforelike/beforelike/blob/main/people.gif" align="center" height="" width="200" />
 </div>  
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=世界那么大，看到就赚到)
