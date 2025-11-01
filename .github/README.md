@@ -1,16 +1,15 @@
 <div align="center">
-<img src="https://github.com/beforelike/beforelike/blob/main/people.gif" align="center" height="" width="200" />
+<img src="https://github.com/beforelike/beforelike/blob/main/tou.gif" align="center" height="" width="200" />
 </div>  
   
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=世界那么大，看到就赚到)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31z2v4dcpj2t3vqmxraoxy65vkrq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31z2v4dcpj2t3vqmxraoxy65vkrq&redirect=true)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=light&quote="火熄灭了都有余温，依旧有燃烧的可能")](https://github.com/piyushsuthar/github-readme-quotes)
 
-### <div align="center">I'm beforelike, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm beforelike, a free-time coder 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [Github Profilinator]([https://github.com/rishavanand/github-profilinator](https://github.com/beforelike/beforelike))  
   
 
 - 🌱 I’m currently learning Radiomics about CT Pancreas image  
