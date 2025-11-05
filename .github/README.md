@@ -9,7 +9,7 @@
 ### <div align="center">I'm beforelike, a free-time coder 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator]([https://github.com/rishavanand/github-profilinator](https://github.com/beforelike/beforelike))  
+- 🔭 I’m currently look star （really stars，jupiter）
   
 
 - 🌱 I’m currently learning Radiomics about CT Pancreas image  
