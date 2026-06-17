@@ -2,7 +2,7 @@
 <img src="https://github.com/beforelike/beforelike/blob/main/tou.gif" align="center" height="" width="200" />
 </div>  
   
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=世界那么大，看到就赚到)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=世界那么大，好像去看看)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=light&quote="火熄灭了都有余温，依旧有燃烧的可能")](https://github.com/piyushsuthar/github-readme-quotes)
 
