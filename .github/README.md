@@ -1,128 +1,47 @@
 <div align="center">
-<img src="https://github.com/beforelike/beforelike/blob/main/tou.gif" align="center" height="" width="200" />
-</div>  
-  
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=世界那么大，好像去看看)
+  <img src="https://github.com/beforelike/beforelike/blob/main/tou.gif" alt="beforelike" width="200" />
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=light&quote="火熄灭了都有余温，依旧有燃烧的可能")](https://github.com/piyushsuthar/github-readme-quotes)
+  <h1>Hi, I'm beforelike 👋</h1>
 
-### <div align="center">I'm beforelike, a free-time coder 👨‍💻 working remotely since 2022 🚀</div>  
-  
-
-- 🔭 I’m currently look star （really stars，jupiter）
-  
-
-- 🌱 I’m currently learning Radiomics about CT Pancreas image  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/latex.png" alt="LaTeX" height="50" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
+  <p>
+    Developer · Radiomics learner · Curious builder<br />
+    <em>世界那么大，好像去看看</em>
+  </p>
 </div>
 
-</td><td valign="top" width="33%">
+## Hello
 
+I'm a free-time developer working remotely since 2022. I learn by building, and I enjoy exploring the space between web development, scientific computing, and medical imaging.
 
+## Current focus
 
-### Backend  
-<div align="center">  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://cython.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cython-original.svg" alt="Cython" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-</div>
+- Learning radiomics with CT pancreas images.
+- Exploring the MERN stack and related technologies.
+- Turning ideas into practical projects with Python, C/C++, and machine-learning tools.
 
-</td><td valign="top" width="33%">
+## Toolbox
 
+| Area | Technologies |
+| --- | --- |
+| Web development | `Node.js` · `Django` · `Flask` · `CSS` |
+| Scientific computing & ML | `Python` · `C` · `C++` · `Cython` · `PyTorch` · `OpenCV` · `LaTeX` |
+| Infrastructure & systems | `Linux` · `Bash` · `Nginx` · `MySQL` · `Terraform` |
+| Hardware & creative tools | `Arduino` · `Photoshop` |
 
+## A few things about me
 
-### DevOps  
-<div align="center">  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
-</div>
+- You can ask me about the MERN stack and related technologies.
+- Fun fact: I use tabs over spaces.
 
-</td></tr></table>  
+## Find me online
 
-<br/>  
+- [GitHub](https://github.com/beforelike)
+- [GitLab](https://gitlab.com/beforelike)
+- [Kaggle](https://www.kaggle.com/beforelike)
+- [YouTube](https://www.youtube.com/@coco)
 
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/beforelike" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/befoerlike" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.kaggle.com/beforelike" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@coco" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=beforelike&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-
-
-### 怎么进入正轨  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31z2v4dcpj2t3vqmxraoxy65vkrq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true" /></div>  
-
-<br/>  
+## GitHub activity
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=beforelike&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-![Trophy](https://github-profile-trophy.vercel.app/?username=beforelike)
+  <img src="https://github-readme-stats.vercel.app/api?username=beforelike&show_icons=true&count_private=true&hide_border=true" alt="GitHub statistics" />
+</div>
